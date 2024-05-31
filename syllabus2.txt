@@ -1,0 +1,199 @@
+8/21/23, 7:58 PM Syllabus for IST 110, Section 003: Info People Tech, FA19 LiptonM WC
+https://psu.instructure.com/courses/2010268/assignments/syllabus 1/9
+Course Syllabus
+Jump to Today
+Please note that the specifics of this Course Syllabus are subject to change. Instructors will notify students of any changes and students
+will be responsible for abiding by them. Even if you print this syllabus, please check the online version often.
+Description
+IST 110: Information, People and Technology (3 credits) - The use, analysis and design of information systems and technologies to
+organize, coordinate, and inform human enterprises.
+Prerequisites
+None
+Objectives
+Information, People and Technology presents the high points of an education in the College of Information Sciences and Technology. It
+opens an intellectual journey through the ideas and challenges that IT professionals face in the world. It will address major questions such
+as: How can we use technology to organize and integrate human enterprises? How can technology help people and organizations adapt
+rapidly and creatively? What can we do about information overload?
+Three perspectives (or facets) address the core issues: information or the basic science of data encoding, transmission and storage;
+people or the interactions among technologies, institutions, regulations and users; and technology or the design and operation of basic
+information technology devices. Students completing the course will be confident users and consumers of information technology.
+Students will develop research and analytical skills to evaluate specific devices and understand how those devices function in larger sociotechnical systems. Students will be able to predict and anticipate the impact of new technologies on human institutions as well as
+understand the potential impact of institutions on the use and design of information technologies.
+The course employs an action-oriented approach. Students learn by doing—formulating and solving problems drawn from professional
+contexts, detecting and recovering from errors related to technology use, and locating, reading and studying materials that support their
+8/21/23, 7:58 PM Syllabus for IST 110, Section 003: Info People Tech, FA19 LiptonM WC
+https://psu.instructure.com/courses/2010268/assignments/syllabus 2/9
+analysis and problem-solving. Students will accomplish this by participating in group-based learning. The course provides students with
+the opportunity to use, modify, and evaluate software to search for, frame, and express ideas with fluency. A variety of mechanisms are
+used to assess student performance. These evaluation methods typically include exams, quizzes, homework assignments, group projects,
+and peer and self-assessments.
+Note: Individual lessons objectives come from the corresponding chapters in the course textbook.
+Instructor
+Mary Lipton, mxl49@psu.edu (mailto:mxl49@psu.edu)
+All course-related email, including messages to your instructor(s) and fellow students should be sent within Canvas, using the Inbox.
+Every attempt will be made for the instructor (or a substitute) to respond to email questions within 24 hours.
+Additional instructor information can be found by selecting People and then the Teacher name.
+Materials
+This course is designed to be used with the COMPLETE edition of Visualizing technology by Geoghan.
+For this course, students may purchase the COMPLETE edition of the 6th, 7th, or 8th edition. Just please make sure you are purchasing
+the COMPLETE edition and not the Introductory edition. Any edition on the following list will be fine for this course.
+Purchase ONE of the following editions of the text:
+Geoghan, D. (2017). Visualizing technology (6th ed.). NY, NY: Pearson. ISBN 978-0134608204.
+--or--
+Geoghan, D. (2018). Visualizing technology (7th ed.). NY, NY: Pearson. ISBN 9780134816449.
+--or--
+Geoghan, D. (2019). Visualizing technology (8th ed.). NY, NY: Pearson. ISBN 978-0135440902.
+8/21/23, 7:58 PM Syllabus for IST 110, Section 003: Info People Tech, FA19 LiptonM WC
+https://psu.instructure.com/courses/2010268/assignments/syllabus 3/9
+Assignments & Grading
+Course Grading Breakdown
+Grading Category Percentage of Final Grade
+Chapter Quizzes 30%
+Group Project 20%
+'Your Choice' Individual Assignments 20%
+Essays 15%
+Discussion 10%
+Peer Evaluations 5%
+TOTAL 100%
+Course Grading Scale
+The following are minimum cutoffs for each grade:
+93.00% = A
+90.00% = A87.00% = B+
+83.00% = B
+80.00% = B77.00% = C+
+70.00% = C
+60.00% = D
+less than 60.00% = F
+Course Policies and Expectations
+Logging into Canvas - Students are expected to login regularly to check for course updates, announcements, emails, discussions, etc.
+Emailing through Canvas - Students are expected to use Canvas for all course email communication.
+8/21/23, 7:58 PM Syllabus for IST 110, Section 003: Info People Tech, FA19 LiptonM WC
+https://psu.instructure.com/courses/2010268/assignments/syllabus 4/9
+Attending virtual meetings - Students are expected to use specified virtual meeting tool(s) for collaboration, meetings, presentations,
+etc., as needed.
+Academic Integrity
+Penn State and the College of Information Sciences and Technology are committed to maintaining Penn State's policy on Academic
+Integrity (http://senate.psu.edu/policies-and-rules-for-undergraduate-students/47-00-48-00-and-49-00-grades/#49-20) in this and all other
+courses. We take academic integrity matters seriously and expect you to become a partner to the University/College standards of
+academic excellence.
+For more information, please review these policies and procedures:
+Penn State World Campus Academic Integrity Resources (https://student.worldcampus.psu.edu/a-z-index/academic-integrity)
+College of IST Academic Integrity Resources (https://ist.psu.edu/students/academic_integrity)
+WARNING: In addition to other policies, using any material in any media format - from “answer sites” (such Course Hero, Chegg, and all
+others) and/or other type of sources - is considered CHEATING and will not be tolerated. Sanctions range from failure of the assignment or
+course to dismissal from the University. Contact your instructor with questions related to this topic.
+University Policies
+Review current information regarding various Penn State policies (such as copyright, counseling, psychological services, disability and
+military accommodations, discrimination, harassment, emergencies, trade names, etc.) on the University Policies
+(https://docs.google.com/document/d/1FIQdII2qw3SJOIgQWTWRByCxSbsnY6DcZA0JHzL4yBk/pub) page.
+Resources
+Find extensive information and links to many Penn State and IST resources (including the Penn State libraries, video conferencing tools,
+technology and software, writing and research help, and much more) on the Resources
+(https://docs.google.com/document/d/1Zsu5Lgaic3kLLiM3co5mxWU5B7lOfu15sppAQvsym6E/pub) page.
+Technical Requirements
+8/21/23, 7:58 PM Syllabus for IST 110, Section 003: Info People Tech, FA19 LiptonM WC
+https://psu.instructure.com/courses/2010268/assignments/syllabus 5/9
+Course Summary:
+Date Details Due
+Sun Sep 1, 2019
+ Academic Integrity Acknowledgment due by 11:59pm
+ L00: Activities - Course Introduction due by 11:59pm
+ L00: Discussion - Introduce Yourself and
+Explain What Interests You Most in IT due by 11:59pm
+ L00: Practice Submitting an Assignment due by 11:59pm
+Sun Sep 8, 2019
+ L01: Activities - What is a Computer? due by 11:59pm
+ L01: Essay - Science Fiction due by 11:59pm
+ L01: Quiz - Chapter 1 due by 11:59pm
+Sun Sep 15, 2019  L02: Activities - Application Software due by 11:59pm
+Standard World Campus computer technical specifications are assumed for this course. Please test your computer
+(https://courses.worldcampus.psu.edu/public/diagnostics/canvas.shtml) for requirements. In addition, a webcam and a headset with a
+microphone are REQUIRED for the course. These may be used for virtual meetings, virtual office hours, interactions with classmates and
+your instructor, and group presentations - which are all conducted with virtual meeting tools. No special software is required.
+Schedule
+The following schedule outlines the topics covered in this course, along with the associated time frames, readings, activities, and
+assignments. All due dates reflect Eastern Time (ET). Specifying the time zone ensures that all students have the same deadlines,
+regardless of where they live.
+8/21/23, 7:58 PM Syllabus for IST 110, Section 003: Info People Tech, FA19 LiptonM WC
+https://psu.instructure.com/courses/2010268/assignments/syllabus 6/9
+Date Details Due
+ L02: "Your Choice" Photography Business due by 11:59pm
+ L02: Group Project - Your Group's Information due by 11:59pm
+ L02: Peer Evaluation Practice due by 11:59pm
+ L02: Quiz - Chapter 2 due by 11:59pm
+Sun Sep 22, 2019
+ L03: "Your Choice" Compare Media File
+Types
+due by 11:59pm
+ L03: Activities - File Management due by 11:59pm
+ L03: Group Project - Group Contract and
+MOU due by 11:59pm
+ L03: Quiz - Chapter 3 due by 11:59pm
+ L04: Activities - File Management due by 11:59pm
+Sun Sep 29, 2019
+ L04: Activities - Hardware due by 11:59pm
+ L04: "Your Choice" Computer Requirements due by 11:59pm
+ L04: Discussion - Group Collaboration due by 11:59pm
+ L04: Quiz - Chapter 4 due by 11:59pm
+8/21/23, 7:58 PM Syllabus for IST 110, Section 003: Info People Tech, FA19 LiptonM WC
+https://psu.instructure.com/courses/2010268/assignments/syllabus 7/9
+Date Details Due
+Sun Oct 6, 2019
+ L05: "Your Choice" Compare Windows 8.1
+and Windows 10 due by 11:59pm
+ L05: Activities - System Software due by 11:59pm
+ L05: Quiz - Chapter 5 due by 11:59pm
+Sun Oct 13, 2019
+ L06: Activities - Group Work and Multimedia due by 11:59pm
+ L06: Group Project - Group Word and
+PowerPoint Assignment Information due by 11:59pm
+Sun Oct 20, 2019
+ L07: Peer Evaluation 1 due by 11:59pm
+ L07: Activities - The Internet due by 11:59pm
+ L07: Essay - Web Usability due by 11:59pm
+ L07: Quiz - Chapter 7 due by 11:59pm
+Sun Oct 27, 2019
+ L08: Activities - Communicating and Sharing:
+The Social Web due by 11:59pm
+ L08: "Your Choice" Facebook Privacy Setting due by 11:59pm
+ L08: Group Project - Group References due by 11:59pm
+ L08: Quiz - Chapter 8 due by 11:59pm
+8/21/23, 7:58 PM Syllabus for IST 110, Section 003: Info People Tech, FA19 LiptonM WC
+https://psu.instructure.com/courses/2010268/assignments/syllabus 8/9
+Date Details Due
+Sun Nov 3, 2019
+ L09: Activities - Networks and Communication due by 11:59pm
+ L09: "Your Choice" Using Another Person's
+Internet Connection due by 11:59pm
+ L09: Quiz - Chapter 9 due by 11:59pm
+Sun Nov 10, 2019
+ L10: "Your Choice" Hacking due by 11:59pm
+ L10: Activities - Security and Privacy due by 11:59pm
+ L10: Quiz - Chapter 10 due by 11:59pm
+Sun Nov 17, 2019
+ L11: Activities - Databases due by 11:59pm
+ L11: Discussion - Database Technology and
+Privacy Issues due by 11:59pm
+ L11: Quiz - Chapter 11 due by 11:59pm
+ L11: "Your Choice" Create a Database due by 11:59pm
+Sun Nov 24, 2019
+ L12: Activities - Group Project: Video Project due by 11:59pm
+ L12: Group Project - Video Project due by 11:59pm
+ L12: "Your Choice" Human-Computer
+Interface (HCI) due by 11:59pm
+8/21/23, 7:58 PM Syllabus for IST 110, Section 003: Info People Tech, FA19 LiptonM WC
+https://psu.instructure.com/courses/2010268/assignments/syllabus 9/9
+Date Details Due
+Mon Nov 25, 2019  Thanksgiving Break Begins 12am
+Sun Dec 1, 2019  Thanksgiving Break Ends 12am
+Sun Dec 8, 2019
+ L13: "Your Choice" Mind Map of Development
+Methods due by 11:59pm
+ L13: Activities - Program Development due by 11:59pm
+ L13: Quiz - Chapter 12 due by 11:59pm
+Wed Dec 11, 2019
+ L14: Activities - Group Project: Video Project
+Final Report due by 11:59pm
+ L14: Group Project - Video Project Final
+Report due by 11:59pm
+ L14: Peer Evaluation 2 due by 11:59pm

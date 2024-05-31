@@ -1,0 +1,65 @@
+ ACADEMICS — COURSES + PROGRAMS — MASTER COURSE OUTLINES
+CISC110 Introduction to Information Systems
+Department of Science, Technology, Engineering & Mathematics:
+Computer/Information Science
+
+I. Course Number and Title
+Courses + Programs
+
+
+
+
+
+CISC110 Introduction to Information Systems
+II. Number of Credits
+3 credits
+III. Number of Instructional Minutes
+3000
+IV. Prerequisites
+Reading Placement test score Level 3 or READ110 (C or better) or COMP108 (C or better) or permission of the Department of
+Science, Technology, Engineering, and Mathematics
+Corequisites
+None
+V. Other Pertinent Information
+Extensive reading and comprehension is required. A series of laboratory assignments and exercises dedicated to developing a
+hands-on proficiency with popular software tools and operating systems will be included in this course. A proctored
+comprehensive departmental final will be evaluated at 15-20% of the course grade.
+VI. Catalog Course Description
+This course provides an overview of business information systems. Topics include hardware and software fundamentals, use of
+software packages, effective use of networks, Internet, and other communication tools, the design of management information
+systems, as well as the ethical use of computers in business and society. Hands-on experience is provided.
+VII. Required Course Content and Direction
+Course Learning Goals
+Students will:
+A.
+1. identify and utilize information and computer system components and peripherals;
+2. demonstrate knowledge of basic system software and application software;
+3. identify and apply the steps involved in analyzing Information Technology (IT) solutions;
+
+
+
+
+
+4. demonstrate ability to use networks, world-wide web, and other communication tools in a variety of settings; and
+create and/or modify files appropriately through the use of office productivity tools: word processor, spreadsheet, presentation,
+and database.
+5.
+Planned Sequence of Topics and/or Learning Activities
+Course Outline:
+B.
+1. Hardware
+a. Current storage (measurements, types)
+b. Peripheral components
+c. Processing
+d. Security (physical components, locks)
+e. Ethics (responsible disposal)
+2. Software Applications
+a. System software (OS, NOS, utilities, virus)
+b. Application software
+c. Security
+d. Licensing considerations and ethics
+e. Appropriate use of resources
+3. Networks
+a. Concepts and terminology
+b. Components
+c. Uses of networks
