@@ -9,7 +9,6 @@ from datetime import timedelta
 import os 
 import autogen_working
 import re
-import autogen_extraction
 import pandas as pd
 import ast
 import autogen_chat_with_syllabus
