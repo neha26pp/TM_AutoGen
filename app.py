@@ -15,7 +15,7 @@ import autogen_chat_with_syllabus
 
 try:
     # Try to initialize Firebase app
-    cred = credentials.Certificate("firebase_credentials.json")
+    cred = json.loads(st.secrets["firebase"]['my_project_settings'])
     firebase_admin.initialize_app(cred, {'storageBucket': 'carl-1667a.appspot.com'})
 except ValueError as e:
     # If app already exists, do nothing
