@@ -12,6 +12,7 @@ import re
 import pandas as pd
 import ast
 import autogen_chat_with_syllabus
+import json 
 
 try:
     # Try to initialize Firebase app
