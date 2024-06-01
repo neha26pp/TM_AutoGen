@@ -7,7 +7,7 @@ import chromadb
 from typing_extensions import Annotated
 import os
 import dotenv
-
+import streamlit as st
 
 config_list = [
   {
