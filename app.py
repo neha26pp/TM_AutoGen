@@ -16,7 +16,7 @@ import json
 
 try:
     # Try to initialize Firebase app
-    cred = json.loads(st.secrets["firebase"]['my_project_settings'])
+    cred = json.loads(dict(st.secrets["firebase"]['my_project_settings']))
     firebase_admin.initialize_app(cred, {'storageBucket': 'carl-1667a.appspot.com'})
 except ValueError as e:
     # If app already exists, do nothing
