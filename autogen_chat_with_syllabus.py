@@ -12,7 +12,7 @@ import dotenv
 config_list = [
   {
     "model": "gpt-4-turbo",
-    "api_key": os.environ["OPENAI_API_KEY"]
+    "api_key": st.secrets["api_keys"]['OPENAI_API_KEY']
   }
 ]
 def termination_msg(x):
