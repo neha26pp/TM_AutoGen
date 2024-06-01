@@ -85,9 +85,9 @@ with col2:
         st.write("Second file uploaded.")
 
 # Sliders for adjustments
-topics_covered_slider = st.slider('Learning Objectives', 0, 100, 50)
-credits_slider = st.slider('Textbook', 0, 100, 50)
-grading_criteria_slider = st.slider('Grading Criteria', 0, 100, 50)
+topics_covered_slider = st.slider('Learning Objectives', 0, 100, 60)
+credits_slider = st.slider('Textbook', 0, 100, 40)
+grading_criteria_slider = st.slider('Grading Criteria', 0, 100, 10)
 
 col3, col4 = st.columns([1, 1])
 
